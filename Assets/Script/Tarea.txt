@@ -1,0 +1,24 @@
+Tarea:
+1_Hacer el moviento del jugador hacer las coliciones (X)
+2_Hacer animaciones del jugador(X)
+3_Hacer mecanica de las escalera (X)
+
+
+fabian:
+5_Hacer mecanica de ataque (0)
+6_Hacer Mecanica De Vida (0)
+
+
+
+enimgos:
+7_hacer ia de los enemigos(X)
+8_hacer ia de ataque al personajes(0)
+9_hacer mecanica de vida ia(0)
+
+
+
+
+Tipos de Enemigos:
+1_Villerubi con chumbo (X)
+2_Villerubi con faca (X)
+3_Delivery de Pizza. (X)
