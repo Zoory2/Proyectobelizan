@@ -1,2 +1,2 @@
 # Belizan_Game
- Un jugo de gozador 
+ Un jugo del gran gozador de moron 
